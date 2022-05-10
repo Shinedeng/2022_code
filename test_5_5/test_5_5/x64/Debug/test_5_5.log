@@ -1,0 +1,5 @@
+﻿  5_5.c
+E:\2021_code\test_5_5\test_5_5\5_5.c(325,39): warning C4311: “类型强制转换”: 从“char *”到“int”的指针截断
+E:\2021_code\test_5_5\test_5_5\5_5.c(326,38): warning C4311: “类型强制转换”: 从“int *”到“int”的指针截断
+E:\2021_code\test_5_5\test_5_5\5_5.c(327,39): warning C4311: “类型强制转换”: 从“char *”到“int”的指针截断
+  test_5_5.vcxproj -> E:\2021_code\test_5_5\x64\Debug\test_5_5.exe
